@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 11, 10 | OS X 10.10 Yosemite |
+| **Processor** | Min: Quad core 3Ghz+ / Rec: Quad core 4Ghz+ from 2020 or newer | 2016 Mac |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 8 GB RAM |
+| **Graphics** | Min: DirectX 11 capable GPU with 1GB VRAM - GeForce GTX 750 … / Rec: DirectX 11 capable GPU with 4 GB VRAM - GeForce GTX 105… | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | Min: 5 GB available space / Rec: 10 GB available space | 5 GB available space |
+| **Additional Notes** | Min: Normal sprite resolution, Low quality compression, 1080… / Rec: High sprite resolution, High quality compression | Normal sprite resolution, Low quality compression, 1080… |
 
 ---
 
